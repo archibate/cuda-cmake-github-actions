@@ -23,7 +23,7 @@ jobs:
         include:
           # Windows2019 & VS 2019 supports 10.1+
           - os: windows-2019
-            cuda: "11.7.0"
+            cuda: "11.7.0"  # bate
             visual_studio: "Visual Studio 16 2019"
           #- os: windows-2019
           #  cuda: "11.3.0"
